@@ -2,6 +2,22 @@
 
 ## Segundo proyecto con el curso de Fernando Herrera (Node de cero a experto: aplicación de consola)
 
+##  ¿ Qué hice ?
+
+En la carpeta **explicaciones_conceptos** esta todo lo que fui documentando para crearlo. <br>
+
+Este es mi segundo programa con Node:
+
+```
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     Es la base de la tabla de multiplicar                [número] [defecto: true]
+  -l, --listar   Muestra la tabla en consola                          [booleano] [defecto: false]
+  -h, --hasta    Este es el número hasta cuando quieres la tabla.     [número] [defecto: 10]
+```                                                         
+
+
 ## Construido con 🛠️
 
 **Node.js**
