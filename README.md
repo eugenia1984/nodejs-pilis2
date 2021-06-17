@@ -15,4 +15,4 @@
 ---
 ## Notas
 Agradezco su interés en este proyecto <br/>
-⌨️ con ❤️ de [María Eugenia Costa] (https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn] (http://www.linkedin.com/in/maríaeugeniacosta)
+⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
