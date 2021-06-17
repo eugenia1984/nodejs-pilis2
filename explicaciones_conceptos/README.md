@@ -1066,6 +1066,7 @@ git remote add origin https://github.com/eugenia1984/nodejs-pilis2.git
 git branch -M main
 git push -u origin main
 ```
+Si por algún inconveneinte yo pierdo mi archivo en mi computadora, puedo recuperarlo desde GitHub, lo puedo bajar comprimido. Van a faltar los módulos de Node, entonces **npm install** para reinstalar los módulos.<br>
 
 ---
 
