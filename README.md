@@ -22,9 +22,13 @@ npm install
 ```
 Para tener los módulos de Node.js.
 
+---
+
 ## Construido con 🛠️
 
 **Node.js**
+
+---
 
 ## Por favor: 🎁
 
@@ -33,6 +37,9 @@ Para tener los módulos de Node.js.
 * Muchas gracias 🤓.
 
 ---
+
 ## Notas
-Agradezco su interés en este proyecto <br/>
-⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
+Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
